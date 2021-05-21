@@ -1,0 +1,3 @@
+Microsoft.BioEnrollment
+Microsoft.Wallet
+Microsoft.WalletTest
